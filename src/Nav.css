@@ -1,0 +1,18 @@
+.nav_wrapper {
+  height: 30px;
+  background-color: #195851;
+  padding-top: 10px;
+}
+.nav {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  list-style: none;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: x-small;
+}
+.menuicon {
+  height: 20px !important;
+  width: 20px !important;
+}
